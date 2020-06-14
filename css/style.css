@@ -1,0 +1,9 @@
+.logotype_link:link,
+.logotype_link:visited,
+.logotype_link:active,
+.logotype_link:hover{
+    text-decoration: none;
+}
+.success-message{
+    display: none;
+}
